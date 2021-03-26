@@ -5,4 +5,4 @@
 
 - ⚡ Fun fact: ... My favorite color is red
 
-- Contact me at [gmail](jacksoumphonphakdy@gmail.com)
+- Contact me at jacksoumphonphakdy@gmail.com
