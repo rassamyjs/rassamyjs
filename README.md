@@ -4,7 +4,7 @@
 
 - Working on enhancing my Python skills
 
-- Working on enhancing my SQL 
+- Working on enhancing my SQL skills
 
 - 💬 Check out my ... [linkedin](https://www.linkedin.com/in/jack-soumphonphakdy-b19127209/)
 
